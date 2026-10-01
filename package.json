@@ -1,0 +1,12 @@
+{
+  "name": "mapa-eleitoral-2026",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Dashboard eleitoral factual, mobile-first e sem ranking para as Eleições 2026.",
+  "scripts": {
+    "dev": "python3 -m http.server 5173",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "node scripts/validate-data.mjs"
+  }
+}
