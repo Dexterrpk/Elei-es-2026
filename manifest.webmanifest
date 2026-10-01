@@ -1,0 +1,12 @@
+{
+  "name": "Mapa Eleitoral 2026",
+  "short_name": "Mapa 2026",
+  "start_url": "./#/home",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "lang": "pt-BR",
+  "icons": [
+    {"src": "./assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
